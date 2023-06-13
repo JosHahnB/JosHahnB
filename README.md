@@ -6,8 +6,8 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=JosHahnB&left_color=green&right_color=red) -->
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=JosHahnB" width="200px" alt="visitor badge"/>
-
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=JosHahnB" width="200px" alt="visitor badge"/>
+ -->
 ### 🌀Professional Competencies🌀
 
 - Growth Mindset
